@@ -20,7 +20,6 @@
     "strictBindCallApply": false,
     "noFallthroughCasesInSwitch": false,
     "baseUrl": "./",
-    "ignoreDeprecations": "6.0",
     "strict": true,
     "strictNullChecks": true,
     "noUncheckedIndexedAccess": true,
